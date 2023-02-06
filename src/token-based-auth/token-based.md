@@ -15,6 +15,7 @@ Usually JWTs (JSON Web Token) are used for this
 
 
 Ref: 
+https://www.luiztools.com.br/post/autenticacao-json-web-token-jwt-em-nodejs/
 https://www.geeksforgeeks.org/session-vs-token-based-authentication/
 https://www.okta.com/identity-101/what-is-token-based-authentication/
 https://jwt.io/introduction/
